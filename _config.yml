@@ -93,6 +93,9 @@ tajs: false
 google_analytics: false
 google_site_verification: false
 
+# google adsense
+google_adsense: ca-pub-2785609193103098
+
 # sogou站长验证 http://zhanzhang.sogou.com/
 sogou_site_verification: false
 
