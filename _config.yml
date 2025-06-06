@@ -90,7 +90,7 @@ baidu_tongji: false
 tajs: false
 
 # google
-google_analytics: false
+google_analytics: UA-40032119-1
 google_site_verification: false
 
 # google adsense
