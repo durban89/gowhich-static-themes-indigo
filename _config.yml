@@ -23,9 +23,6 @@ menu:
   github:
     url: https://github.com/durban89
     target: _blank
-  link:
-    text: 测试
-    url: /custom
 
 # 你的头像url
 avatar: /img/avatar.jpg
